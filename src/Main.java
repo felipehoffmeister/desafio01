@@ -12,6 +12,6 @@ public class Main {
         Email email = new Email();
         View view = new View();
         view.setVisible(true);
-
+        //TOP
     }
 }
